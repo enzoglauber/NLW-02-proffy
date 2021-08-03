@@ -54,10 +54,6 @@
 
 ![Cover Web - NLW2 - Proffy](./web/public/assets/images/cover.png)
 
-**Design created by:**
-
-[![Enzo Glauber](./web/public/assets/images/designer.png)](https://www.instagram.com/enzoglauber/)
-
 </div>
 
 
