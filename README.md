@@ -56,11 +56,7 @@
 
 **Design created by:**
 
-[![Tiago Luchtenberg](./web/public/assets/images/designer.png)](https://www.instagram.com/tiagoluchtenberg/)
-
-Tiago is a methodical guy and passionate about design.
-
-Also he uses some kind of hack in his life, but don't tell everyone.
+[![Enzo Glauber](./web/public/assets/images/designer.png)](https://www.instagram.com/enzoglauber/)
 
 </div>
 
